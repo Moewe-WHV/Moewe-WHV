@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=220&section=header&text=Ahoi%2C%20ich%20bin%20Tim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vom%20Pflegehelfer%20zum%20Anwendungsentwickler&descSize=20&descAlignY=58" alt="Ahoi, ich bin Tim" />
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=3776AB&vCenter=true&multiline=true&repeat=false&width=640&height=110&lines=Statt+Patienten+zu+lagern%2C+lagere+ich+jetzt+Code+in+Repos+%E2%9A%93;Umschulung+zum+FIAE;Suche+Praktikum+in+Friesland+%F0%9F%8C%8A)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=3776AB&vCenter=true&multiline=true&repeat=false&width=640&height=110&lines=Statt+Patienten+zu+lagern%2C+lagere+ich+jetzt+Code+in+Repos.;Umschulung+zum+FIAE.;Suche+Praktikum+in+Friesland.)
 
 ![Praktikum](https://img.shields.io/badge/Praktikum-gesucht_(9_Monate)-2ea44f?style=for-the-badge)
 ![Standort](https://img.shields.io/badge/Standort-Friesland_⚓-0b5c8a?style=for-the-badge)
@@ -103,3 +103,6 @@ Wenn du ein Team in der friesischen Region hast, das jemanden mit Praxis-Erfahru
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=120&section=footer" alt="" />
 
 </div>
+
+*Aktuell im Debugging-Modus. Der Kaffee ist alle, der Bug lebt noch.*
+

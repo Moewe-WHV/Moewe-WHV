@@ -1,59 +1,60 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=220&section=header&text=Ahoi%2C%20ich%20bin%20Tim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vom%20Pflegeassistenten%20zum%20Anwendungsentwickler&descSize=20&descAlignY=58" alt="Ahoi, ich bin Tim" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=150&color=gradient&reversal=false&text=Ahoi%2C+ich+bin+Tim.&textBg=false&fontSize=70&fontAlign=50&fontAlignY=35&rotate=0&strokeWidth=0&desc=Vom+Pflegeassistenten+zum+Anwendungsentwickler&descSize=25&descAlign=50&descAlignY=69" alt="Ahoi, ich bin Tim" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=58A6FF&center=true&vCenter=true&repeat=false&width=640&height=40&lines=Statt+Patienten+zu+lagern%2C+lagere+ich+jetzt+Code+in+Repos.)
 
-![Praktikum](https://img.shields.io/badge/Praktikum-gesucht_(9_Monate)-2ea44f?style=for-the-badge)
-![Standort](https://img.shields.io/badge/Standort-Friesland-0b5c8a?style=for-the-badge)
-![Umschulung](https://img.shields.io/badge/FIAE-seit_02.02.2026-3776AB?style=for-the-badge)
+![Praktikum](https://img.shields.io/badge/Praktikum-gesucht_(9_Monate)-0b5c8a?style=for-the-badge)
+![Standort](https://img.shields.io/badge/Standort-WHV,_Fri_oder_OL-0b5c8a?style=for-the-badge)
+![Umschulung](https://img.shields.io/badge/Ab_wann-Januar_2027-0b5c8a?style=for-the-badge)
 
 </div>
 
 <br>
 
-## 🧑‍💻 `tim.py`
+## 🧑‍💻 `ueber_tim.py`
 
 ```python
 class Tim:
-    heimat = "Friesland ⚓️"
+    baujahr = "1989"
+    heimat = "Friesland"
     beruf_alt = "Pflegeassistent"
     beruf_neu = "Umschüler zum Fachinformatiker für Anwendungsentwicklung (FIAE)"
     seit = "02.02.2026"
 
-    lernt_gerade = ["Python (OOP)", "SQL", "OSI & Subnetting", "Datenschutz", "Git im Team"]
+    lernt_gerade = ["Python (OOP)", "SQL", "OSI & Subnetting", "Datenschutz", "Git im Team", "uvm."]
     nebenbei = ["VPS", "DevOps-Grundlagen", "KI-Agenten & Automatisierung"]
 
     best_skill = "Ruhe bewahren, wenn alles brennt (Pflege-erprobt)"
     sucht = "Praktikum (9 Monate inkl. IHK-Abschlussprojekt) in der Anwendungsentwicklung"
 
     def status(self):
-        return "Kaffee ☕️ ist alle, Bug 🪲 lebt noch."
+        return "Kaffee ist alle, aber immerhin - der Bug lebt noch."
 ```
 
 <br>
 
-## 🧰 Skills
+## 🧰 Stack
+**Grundlagen**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![UML](https://img.shields.io/badge/UML-004C97?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-6E7681?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-6E7681?style=flat-square&logo=ollama&logoColor=white)
 
-**Programmieren & Daten**
 
-![Python](https://img.shields.io/badge/Python-Grundlagen-4479A1?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Grundlagen-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-Grundlagen-4479A1?style=flat-square)
+**Alltag**  
+![macOS](https://img.shields.io/badge/macOS-6E7681?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-6E7681?style=flat-square&logo=apple&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
 
-**Werkzeuge & Workflow**
 
-![Git](https://img.shields.io/badge/Git-Grundlagen-4479A1?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Grundlagen-4479A1?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Grundlagen-4479A1?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Alltag-8957E5?style=flat-square&logo=claude&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-Alltag-8957E5?style=flat-square&logo=apple&logoColor=white)
-
-**Server & Infrastruktur**
-
-![Linux](https://img.shields.io/badge/Linux-Grundlagen-4479A1?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Grundlagen-4479A1?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Grundlagen-4479A1?style=flat-square&logo=docker&logoColor=white)
 
 *Und es werden regelmäßig mehr.*
 
@@ -71,33 +72,14 @@ class Tim:
 
 <br>
 
-## 🎯 Aktueller Fokus
-
-![Python](https://img.shields.io/badge/Python-OOP_&_saubere_Struktur-0b5c8a?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Datenbanken-0b5c8a?style=flat-square&logo=mysql&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Workflows_im_Team-0b5c8a?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server_&_Bash-0b5c8a?style=flat-square&logo=linux&logoColor=white)
-![Netzwerk](https://img.shields.io/badge/Netzwerk-OSI_&_Subnetting-0b5c8a?style=flat-square)
-![Datenschutz](https://img.shields.io/badge/Datenschutz-DSGVO-0b5c8a?style=flat-square)
-
-**Nebenbei:**
-
-![VPS](https://img.shields.io/badge/Arbeiten_mit_VPS-6E7681?style=flat-square)
-![DevOps](https://img.shields.io/badge/DevOps--Grundlagen-6E7681?style=flat-square)
-![KI](https://img.shields.io/badge/KI--Agenten_&_Automatisierung-6E7681?style=flat-square)
-
-<br>
-
 ## 🔎 Was ich suche
 
 Ein **Praktikumsplatz** (9 Monate, inkl. IHK-Abschlussprojekt) in der **Anwendungsentwicklung**.
 
-Wenn du ein Team in der friesischen Region hast, das jemanden mit Praxis-Erfahrung im Umgang mit Menschen und Frust-Toleranz gebrauchen kann: **Schreib mir gern.** 🌊
+Wenn du ein Team in der friesischen Region hast, das jemanden mit Praxis-Erfahrung im Umgang mit Menschen und Frust-Toleranz gebrauchen kann:     
 
-<!--
-Kontakt-Badge: Kommentar entfernen und Adresse eintragen.
-[![E-Mail](https://img.shields.io/badge/E--Mail-DEINE_ADRESSE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:DEINE_ADRESSE)
--->
+[![E-Mail](https://img.shields.io/badge/Mail_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tim-whv@t-online.de)
+
 
 <br>
 
@@ -105,6 +87,5 @@ Kontakt-Badge: Kommentar entfernen und Adresse eintragen.
 
 *Aktuell im Debugging-Modus. Der ☕️ ist alle, der 🪲 lebt noch.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=120&section=footer" alt="" />
 
 </div>

@@ -37,15 +37,15 @@ class Tim:
 
 **Programmieren & Daten**
 
-![Python](https://img.shields.io/badge/Python-Fortgeschritten-3776AB?style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Grundlagen-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Grundlagen-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-Grundlagen-F08705?style=flat-square)
 
 **Werkzeuge & Workflow**
 
-![Git](https://img.shields.io/badge/Git-Fortgeschritten-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-Fortgeschritten-6E7681?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-Fortgeschritten-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Grundlagen-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Grundlagen-6E7681?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-Grundlagen-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-Alltag-D97757?style=flat-square&logo=claude&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Alltag-6E7681?style=flat-square&logo=apple&logoColor=white)
 
@@ -73,12 +73,12 @@ class Tim:
 
 ## 🎯 Aktueller Fokus
 
-![Python](https://img.shields.io/badge/Python-OOP,_saubere_Struktur-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Datenbanken-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-Fortgeschritten-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Fortgeschritten-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Netzwerk](https://img.shields.io/badge/Netzwerk-OSI_&_Subnetting-8957E5?style=flat-square)
 ![Datenschutz](https://img.shields.io/badge/Datenschutz-DSGVO-8957E5?style=flat-square)
-![GitHub](https://img.shields.io/badge/GitHub-Workflows_im_Team-F05032?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Server_&_Bash-333333?style=flat-square&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-Fortgeschritten-F05032?style=flat-square&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Fortgeschritten-333333?style=flat-square&logo=linux&logoColor=white)
 
 **Nebenbei:**  
 ![VPS](https://img.shields.io/badge/Arbeiten_mit_VPS-6E7681?style=flat-square)

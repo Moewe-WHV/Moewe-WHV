@@ -97,12 +97,11 @@ Wenn du ein Team in der friesischen Region hast, das jemanden mit Praxis-Erfahru
 
 <div align="center">
 
-*Aktuell im Debugging-Modus.*
-*Der Kaffee ☕️ ist alle, der Bug 🪲 lebt noch.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=120&section=footer" alt="" />
 
 </div>
 
-*Aktuell im Debugging-Modus. Der Kaffee ist alle, der Bug lebt noch.*
 
+
+*Aktuell im Debugging-Modus. Der ☕️ ist alle, der 🪲 lebt noch.*

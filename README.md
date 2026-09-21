@@ -38,7 +38,7 @@ class Tim:
 **Grundlagen**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-004C97?style=flat-square)
+![UML](https://img.shields.io/badge/UML-004C97?style=flat-square&logo=uml&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-6E7681?style=flat-square&logo=github&logoColor=white)

@@ -36,23 +36,24 @@ class Tim:
 
 ## 🧰 Stack
 **Grundlagen**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![UML](https://img.shields.io/badge/UML-004C97?style=flat-square&logo=uml&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-222222?style=flat-square&logo=markdown&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6E7681?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Python](https://img.shields.io/badge/Python-333333?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat-square&logo=mysql&logoColor=white)
+![UML](https://img.shields.io/badge/UML-333333?style=flat-square&logo=uml&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-333333?style=flat-square&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-333333?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-333333?style=flat-square&logo=linux&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-6E7681?style=flat-square&logo=ollama&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-333333?style=flat-square&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-333333?style=flat-square&logo=docker&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-333333?style=flat-square&logo=ollama&logoColor=white)  
 
 
 **Alltag**  
-![macOS](https://img.shields.io/badge/macOS-6E7681?style=flat-square&logo=apple&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-6E7681?style=flat-square&logo=apple&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-333333?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-333333?style=flat-square&logo=apple&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-333333?style=flat-square&logo=claude&logoColor=white)
+
 
 
 
@@ -64,9 +65,9 @@ class Tim:
 
 | | Projekt | Worum geht's? |
 |:-:|---|---|
-| 🤖 | [**iSlave**](https://github.com/Moewe-WHV/iSlave) | Terminalanwendung zur Steuerung eines humanoiden Haushaltsroboters. Teamprojekt der Schule, ich war **Teamleiter**. |
-| 🐣 | [**PicoPet**](https://github.com/Moewe-WHV/PicoPet) | Tamagotchi-ähnliches Spiel in Python mit Fokus auf **OOP** und **Modularisierung**. |
-| 🧰 | [**Kontor**](https://github.com/Moewe-WHV/Kontor) | Mit Claude erstellter Werkzeugkasten für Teamleitungen in der Softwareentwicklung. |
+| 👥 | [**iSlave**](https://github.com/Moewe-WHV/iSlave) | Terminalanwendung zur Steuerung eines humanoiden Haushaltsroboters. Teamprojekt der Schule, ich war **Teamleiter**. |
+| 👤 | [**PicoPet**](https://github.com/Moewe-WHV/PicoPet) | Tamagotchi-ähnliches Spiel in Python mit Fokus auf **OOP** und **Modularisierung**. |
+| 🤖 | [**Kontor**](https://github.com/Moewe-WHV/Kontor) | Mit Claude erstellter Werkzeugkasten für Teamleitungen in der Softwareentwicklung. |
 
 *An weiteren wird geplant, gearbeitet oder verzweifelt.*
 

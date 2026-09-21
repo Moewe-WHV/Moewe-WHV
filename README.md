@@ -31,10 +31,5 @@ An weiteren wird geplant, gearbeitet oder verzweifelt.
 
 Ein **Praktikumsplatz** (9 Monate, inkl. IHK-Abschlussprojekt) in der Anwendungsentwicklung. Wenn du ein Team hast, das jemanden mit Praxis-Erfahrung im Umgang mit Menschen und Frust-Toleranz gebrauchen kann: Schreib mir gern.
 
-## 📫 Kontakt
-
-- GitHub: du bist schon hier 😉
-- E-Mail: *tim-whv@t-online.de*
-
 
 *Aktuell im Debugging-Modus. Der Kaffee ist alle, der Bug lebt noch.*

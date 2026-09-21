@@ -1,11 +1,11 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=220&section=header&text=Ahoi%2C%20ich%20bin%20Tim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vom%20Pflegehelfer%20zum%20Anwendungsentwickler&descSize=20&descAlignY=58" alt="Ahoi, ich bin Tim" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=220&section=header&text=Ahoi%2C%20ich%20bin%20Tim&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Vom%20Pflegeassistenten%20zum%20Anwendungsentwickler&descSize=20&descAlignY=58" alt="Ahoi, ich bin Tim" />
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=3776AB&vCenter=true&multiline=true&repeat=false&width=640&height=110&lines=Statt+Patienten+zu+lagern%2C+lagere+ich+jetzt+Code+in+Repos.;Umschulung+zum+FIAE.;Suche+Praktikum+in+Friesland.)
 
 ![Praktikum](https://img.shields.io/badge/Praktikum-gesucht_(9_Monate)-2ea44f?style=for-the-badge)
-![Standort](https://img.shields.io/badge/Standort-Friesland_⚓-0b5c8a?style=for-the-badge)
+![Standort](https://img.shields.io/badge/Standort-Friesland-0b5c8a?style=for-the-badge)
 ![Umschulung](https://img.shields.io/badge/FIAE-seit_02.02.2026-3776AB?style=for-the-badge)
 
 </div>
@@ -17,14 +17,14 @@
 ```python
 class Tim:
     heimat = "Friesland ⚓️"
-    vorher = "Pflegehelfer"
-    jetzt = "Umschüler zum Fachinformatiker für Anwendungsentwicklung (FIAE)"
+    beruf_alt = "Pflegeassistent"
+    beruf_neu = "Umschüler zum Fachinformatiker für Anwendungsentwicklung (FIAE)"
     seit = "02.02.2026"
 
     lernt_gerade = ["Python (OOP)", "SQL", "OSI & Subnetting", "Datenschutz", "Git im Team"]
     nebenbei = ["VPS", "DevOps-Grundlagen", "KI-Agenten & Automatisierung"]
 
-    high_skill = "Ruhe bewahren, wenn alles brennt (Pflege-erprobt)"
+    best_skill = "Ruhe bewahren, wenn alles brennt (Pflege-erprobt)"
     sucht = "Praktikum (9 Monate inkl. IHK-Abschlussprojekt) in der Anwendungsentwicklung"
 
     def status(self):

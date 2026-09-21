@@ -73,7 +73,6 @@ class Tim:
 
 ## 🎯 Aktueller Fokus
 
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/Python-OOP,_saubere_Struktur-3776AB?style=flat-square&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Datenbanken-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Netzwerk](https://img.shields.io/badge/Netzwerk-OSI_&_Subnetting-8957E5?style=flat-square)
@@ -104,7 +103,6 @@ Wenn du ein Team in der friesischen Region hast, das jemanden mit Praxis-Erfahru
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,12,18&height=120&section=footer" alt="" />
 
 </div>
-=======
 
 *Aktuell im Debugging-Modus. Der Kaffee ist alle, der Bug lebt noch.*
->>>>>>> 27cbaa07d7345bf647c59a9657acd318b735713d
+

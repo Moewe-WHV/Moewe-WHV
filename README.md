@@ -63,7 +63,7 @@ class Tim:
 
 ## 🚀 Projekte
 
-| | Projekt | Worum geht's? | Rolle |
+| | Projekt | Rolle | Worum geht's? |
 |:-:|---|---|---|
 | 👥 | [**MietPilot**](https://github.com/Moewe-WHV/WohnPilot) | **Teamleiter** | Kleines Mieterportal als Web-Anwendung. Teamprojekt der Umschulung. 
 | 👥 | [**iSlave**](https://github.com/Moewe-WHV/iSlave) | **Teamleiter** | Terminalanwendung zur Steuerung eines humanoiden Haushaltsroboters. Teamprojekt der Umschulung. 

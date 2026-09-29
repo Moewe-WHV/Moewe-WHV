@@ -65,6 +65,7 @@ class Tim:
 
 | | Projekt | Worum geht's? |
 |:-:|---|---|
+| 👥 | [**MietPilot**](https://github.com/Moewe-WHV/WohnPilot) | Kleines Mieterportal als Web-Anwendung. Teamprojekt der Umschulung. **Ich bin Teamleiter**
 | 👥 | [**iSlave**](https://github.com/Moewe-WHV/iSlave) | Terminalanwendung zur Steuerung eines humanoiden Haushaltsroboters. Teamprojekt der Schule, ich war **Teamleiter**. |
 | 👤 | [**PicoPet**](https://github.com/Moewe-WHV/PicoPet) | Tamagotchi-ähnliches Spiel in Python mit Fokus auf **OOP** und **Modularisierung**. |
 | 🤖 | [**Kontor**](https://github.com/Moewe-WHV/Kontor) | Mit Claude erstellter Werkzeugkasten für Teamleitungen in der Softwareentwicklung. |

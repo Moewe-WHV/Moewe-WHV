@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=58A6FF&center=true&vCenter=true&repeat=false&width=640&height=40&lines=Statt+Patienten+zu+lagern%2C+lagere+ich+jetzt+Code+in+Repos.)
 
-![Gesucht](https://img.shields.io/badge/Gesucht_Praktikum_(9_Monate)-0b5c8a?style=for-the-badge)
+![Gesucht](https://img.shields.io/badge/Gesucht,_Praktikum_(9_Monate)-0b5c8a?style=for-the-badge)
 ![Standort](https://img.shields.io/badge/Standort-WHV,_Fri_oder_OL-0b5c8a?style=for-the-badge)
 ![Umschulung](https://img.shields.io/badge/Ab_wann-Januar_2027-0b5c8a?style=for-the-badge)
 

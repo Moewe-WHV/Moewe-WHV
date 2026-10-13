@@ -24,8 +24,8 @@ class Tim:
     nebenbei = ["VPS", "DevOps-Grundlagen", "KI-Agenten & Automatisierung"]
 
     best_skill = "Ruhe bewahren, wenn alles brennt (Pflege-erprobt)"
-    sucht = "Praktikum (9 Monate inkl. IHK-Abschlussprojekt) in der Anwendungsentwicklung"
-
+    milestone_1 = "AP1 mit mind. 3 bestehen"
+    milestone_2 = "AP2 erfolgreich abschließen"
     def status(self):
         return "Kaffee ist alle, aber immerhin - der Bug lebt noch."
 ```
